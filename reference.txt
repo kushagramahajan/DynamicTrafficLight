@@ -1,0 +1,51 @@
+﻿References
+
+
+SSD Code
+https://github.com/weiliu89/caffe/tree/ssd
+
+
+Object Tracking Based on Kalman Filter
+https://in.mathworks.com/help/vision/examples/using-kalman-filter-for-object-tracking.html
+
+
+Dubska et al., "Automatic Camera Calibration for Traffic Understanding", BMVC 2014
+http://www.bmva.org/bmvc/2014/files/paper013.pdf
+
+
+Speed Estimation
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.1588&rep=rep1&type=pdf
+
+
+DPM (Deformable Part Models)
+https://github.com/rbgirshick/voc-dpm
+
+
+Discriminatively trained deformable part models
+http://people.cs.uchicago.edu/~rbg/latent-release5/
+
+
+Object Detection with Discriminatively Trained Part Based Models
+Pedro F. Felzenszwalb, Ross B. Girshick, David McAllester and Deva Ramanan
+https://cs.brown.edu/~pff/papers/lsvm-pami.pdf
+
+
+Liu, Wei, et al. "SSD: Single shot multibox detector." European Conference on Computer Vision. Springer International Publishing, 2016.
+https://arxiv.org/pdf/1512.02325.pdf
+
+
+Image Rectification
+Chaudhury, Krishnendu, Stephen DiVerdi, and Sergey Ioffe. "Auto-rectification of user photos." 2014 IEEE International Conference on Image Processing (ICIP). IEEE, 2014.
+
+
+Object Tracking                       https://in.mathworks.com/help/vision/examples/motion-based-multiple-object-tracking.html
+
+
+X. Li and X. Guo, "A HOG Feature and SVM Based Method for Forward Vehicle Detection with Single Camera," 2013 5th International Conference on Intelligent Human-Machine Systems and Cybernetics, Hangzhou, 2013, pp. 263-266.
+
+
+http://ieeexplore.ieee.org/document/6643881/
+
+
+HoG Reference
+https://github.com/bikz05/object-detector

@@ -1,0 +1,23 @@
+﻿Data
+
+
+Highway Traffic
+https://www.youtube.com/watch?v=PNCJQkvALVc&feature=youtu.be
+
+
+
+
+Traffic Light Video
+https://www.youtube.com/watch?v=jjlBnrzSGjc 
+https://www.youtube.com/watch?v=fCP4R949kZY
+https://www.youtube.com/watch?v=n1MD-5HPGyI
+
+
+Traffic Dataset
+http://www.ee.cuhk.edu.hk/~xgwang/MITtraffic.html
+http://clickdamage.com/sourcecode/cv_datasets.php
+http://host.robots.ox.ac.uk/pascal/VOC/
+
+
+Data Annotated By Us
+https://drive.google.com/drive/folders/0B0vMgI5z0DU-UkdaS25zOXIyYmc?usp=sharing
