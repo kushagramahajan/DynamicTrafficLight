@@ -1,5 +1,4 @@
-﻿For running the deep models
-
+For running the deep models
 
 The repository has been cloned from the Single Shot Detector repository for caffe on github. The link for the repository is : https://github.com/weiliu89/caffe/tree/ssd. Much of the entire code for for fine-tuning and running the network is available on the the official link given. The repository has a pre-trained-model that has been trained on the Pascal VO 2007 dataset. That model is used for fine-tuning. Matlab Computer Vision Toolbox has been used for creating bounding box annotations as part of dataset creation.
 The totxt.m file has been used to convert the .mat file with the bounding box annotations on that  dataset to the format for creating lmdb training and testing files for fine-tuning. The fine-tuning is done using the ssd_pascal-kushagra.py file. 
@@ -9,7 +8,6 @@ Thus, using SSD model we are able to model the problem of car detection highly e
 
 
 For running HoG
-
 
 Import Bridge.mat
 Run letstrack.m using H and muponpix as arguments
