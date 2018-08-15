@@ -5,8 +5,6 @@ The totxt.m file has been used to convert the .mat file with the bounding box an
 Thus, using SSD model we are able to model the problem of car detection highly efficiently.
 
 
-
-
 For running HoG
 
 Import Bridge.mat
