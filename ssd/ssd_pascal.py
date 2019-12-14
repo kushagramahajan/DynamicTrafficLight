@@ -85,9 +85,9 @@ resume_training = False
 remove_old_models = False
 
 # The database file for training data. Created by data/VOC0712/create_data.sh
-train_data = "data/cars/lmdb/cars_trainval_lmdb"
+train_data = "data/vehicles/lmdb/vehicles_trainval_lmdb"
 # The database file for testing data. Created by data/VOC0712/create_data.sh
-test_data = "data/cars/lmdb/cars_test_lmdb"
+test_data = "data/vehicles/lmdb/vehicles_test_lmdb"
 # Specify the batch sampler.
 resize_width = 300
 resize_height = 300
@@ -238,7 +238,7 @@ else:
     base_lr = 0.00004
 
 # Modify the job name if you want.
-job_name = "cars43_{}".format(resize)
+job_name = "vehicles43_{}".format(resize)
 # The name of the model. Modify it if you want.
 model_name = "VGG_VOC0712_{}".format(job_name)
 
@@ -572,7 +572,7 @@ with open(job_file, 'w') as f:
 
 # Copy the python script to job_dir.
 #py_file = os.path.abspath(__file__)
-py_file='/home/richa/ssd/caffe/examples/ssd/ssd_pascal-kushagra.py'
+py_file='/home/kushagra/ssd/caffe/examples/ssd/ssd_pascal.py'
 
 print(py_file)
 print(job_dir)

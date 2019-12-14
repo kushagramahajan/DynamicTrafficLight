@@ -93,13 +93,13 @@ net.blobs['data'].reshape(1,3,image_resize,image_resize)
 
 poly=[(853,423),(534,478),(424,147)]
 
-#im_file = os.path.join('/home/richa/ssd/caffe/examples','kushagra-images','test1')
+#im_file = os.path.join('/home/kushagra/ssd/caffe/examples','kushagra-images','test1')
 fNum = 0
-print(glob.glob("/home/richa/ssd/caffe/examples/kushagra-images/test4/*.jpg"))
+print(glob.glob("/home/kushagra/ssd/caffe/examples/kushagra-images/test4/*.jpg"))
 
 #### my code ends here
 
-for img_fn in glob.glob("/home/richa/ssd/caffe/data/cars/Images/*.jpg"):
+for img_fn in glob.glob("/home/kushagra/ssd/caffe/data/vehicles/Images/*.jpg"):
 
     #image = cv2.imread(img_fn)
     image = caffe.io.load_image(img_fn)
@@ -173,7 +173,7 @@ for img_fn in glob.glob("/home/richa/ssd/caffe/data/cars/Images/*.jpg"):
     plt.draw()
     fig = plt.gcf()
     print("before save")
-    fig.savefig("/home/richa/ssd/caffe/examples/kushagraoutputs/output_"+str(image_name))
+    fig.savefig("/home/kushagra/ssd/caffe/examples/kushagraoutputs/output_"+str(image_name))
     plt.close()
 
 	### my code ends here
