@@ -1,6 +1,6 @@
 # Dynamic Traffic Light System
 
-Work done as part of final course project of Computer Vision by -
+Sample code for work done as part of final course project of Computer Vision by -
 
 1. Kushagra Mahajan (kushagra14055@iiitd.ac.in)
 2. Rohan Tiwari (rohan14157@iiitd.ac.in)
