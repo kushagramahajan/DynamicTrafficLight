@@ -10,7 +10,7 @@ Sample code for work done as part of final course project of Computer Vision by 
 ### Code Structure
 
 * The folder `ssd` contains the code for running the Single Shot Detector for vehicle detection to calculate the density of vehicles.
-* The `Code` folder contains the code for lane detection, affine and metric rectification, and tracking.
+* The `Code` folder contains the code for lane detection, affine and metric rectification, tracking, and speed estimation.
 * `datasets.txt` file contains the links to the datasets used for our experiments and the Google Drive link for the annotated data.
 * `references.txt` contains the list of references for this work.
 
