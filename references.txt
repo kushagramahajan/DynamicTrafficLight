@@ -38,8 +38,8 @@ Image Rectification
 Chaudhury, Krishnendu, Stephen DiVerdi, and Sergey Ioffe. "Auto-rectification of user photos." 2014 IEEE International Conference on Image Processing (ICIP). IEEE, 2014.
 
 
-Object Tracking                       https://in.mathworks.com/help/vision/examples/motion-based-multiple-object-tracking.html
-
+Object Tracking
+https://in.mathworks.com/help/vision/examples/motion-based-multiple-object-tracking.html
 
 X. Li and X. Guo, "A HOG Feature and SVM Based Method for Forward Vehicle Detection with Single Camera," 2013 5th International Conference on Intelligent Human-Machine Systems and Cybernetics, Hangzhou, 2013, pp. 263-266.
 
